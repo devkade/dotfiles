@@ -23,7 +23,7 @@ alias vcf "cd /Users/kade/.config/nvim/lua"
 alias cf "cd /Users/kade/.config/"
 alias fcf "cd /Users/kade/.config/fish"
 alias frc "/Users/kade/.config/fish/config.fish"
-alias ide "~/.config/tmux/ide.fish"
+alias ide "~/.scripts/ide"
 alias moana="ssh mouseku@moana.khu.ac.kr -p 30080"
 command -qv nvim && alias vim nvim
 
